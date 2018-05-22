@@ -1,6 +1,6 @@
-# startup_namer
+# Name Generator
 
-A new Flutter application.
+A band name generator made with Dart and Flutter.
 
 ## Getting Started
 
